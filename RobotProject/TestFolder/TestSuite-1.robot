@@ -24,6 +24,9 @@ MyThirdTest
 MyFourthTest
     Log    I am in Fourth test
 
+MyFifthTest
+    Log    I am in Fifth test
+    
 
 # FirstSeleniumTest
     # Open Browser    http://www.google.com    chrome
